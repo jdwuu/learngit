@@ -1,2 +1,3 @@
 Git is a version control system.
-git is free soltware.
+git is free soltware distributed under the GPL.
+Git has a mutable index called stage.
