@@ -1,1 +1,2 @@
-git is free soltware 2
+Git is a version control system.
+git is free soltware.
